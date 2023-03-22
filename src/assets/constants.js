@@ -1,5 +1,7 @@
 import { HiOutlineHashtag, HiOutlineHome, HiOutlinePhotograph, HiOutlineUserGroup } from 'react-icons/hi';
 
+export const loaderImg = 'https://raw.githubusercontent.com/adrianhajdin/project_music_player/57c96f9624dadc946d7d139e60bb6d4db0dafd9e/src/assets/loader.svg'
+
 export const genres = [
   { title: 'Pop', value: 'POP' },
   { title: 'Hip-Hop', value: 'HIP_HOP_RAP' },
